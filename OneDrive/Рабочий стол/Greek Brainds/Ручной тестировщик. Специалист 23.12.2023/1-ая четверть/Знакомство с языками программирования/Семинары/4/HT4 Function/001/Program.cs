@@ -2,10 +2,10 @@
 //Задача 1: Бесконечный запрос чисел до ввода ‘q’ или числа с четной
 // суммой цифр
 
-using System;
-class Program
+// using System;
+// class Program
 {
-static void Main()
+// static void Main()
 {
 while (true) // Бесконечный цикл
 {
